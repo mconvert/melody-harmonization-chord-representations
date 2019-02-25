@@ -1,0 +1,9 @@
+*/reports/
+*__pycache__/
+*.pytest_cache/
+*.ipynb_checkpoints/
+*.eps
+*.png
+*.pdf
+harmony_generation/ableton_files/
+.DS_Store
